@@ -1,10 +1,34 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>format</title>
+    </head>
+    <body>
+    </body>
+</html>
+            
+## HTML5学习笔记
+### 元素类型
 
 You can use the [editor on GitHub](https://github.com/y281473724/y281473724.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+```markdown
+嘿嘿嘿
+```
 ### Markdown
+[www.baidu.com]
+- 这是做什么的
+- list???
+1. 很好用
+2. 还不错
+**加粗**
+_斜体?_
+换行怎么办
+打上两个空格就是换行  
+'var i = 0;  
+这是代码块?
+var sum=i*i;`
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
